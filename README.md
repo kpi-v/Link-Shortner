@@ -7,7 +7,7 @@
 **Назва лабораторної роботи**: [Розробка статичного інтерфейсу Web-додатка]  
 
 ## Звіт
-Посилання на звіт: [Google Drive URL]([https://drive.google.com/](https://docs.google.com/document/d/1C5i5UVGvtI24vOBqo-LBMQBnWP6psIxzONRMw7CORgc/edit?usp=sharing))
+Посилання на звіт: [https://drive.google.com/](https://docs.google.com/document/d/1C5i5UVGvtI24vOBqo-LBMQBnWP6psIxzONRMw7CORgc/edit?usp=sharing
 
 **Завдання**:  
 Мета: ознайомитись із засобами мов HTML5 та CSS3 та навчитись застосовувати бібліотеки Twitter Bootstrap/Material UI щодо швидкої побудови Web-інтерфейсу користувача.
